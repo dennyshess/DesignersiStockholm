@@ -14,8 +14,8 @@ module.exports = function(grunt) {
     lint: {
       files: ['grunt.js', 'lib/**/*.js', 'test/**/*.js']
     },
-    qunit: {
-      files: ['test/**/*.html']
+    test: {
+      files: ['test/**/*.js']
     },
     concat: {
       dist: {
@@ -31,7 +31,7 @@ module.exports = function(grunt) {
     },
     watch: {
       files: '<config:lint.files>',
-      tasks: 'lint qunit'
+      tasks: 'lint test'
     },
     jshint: {
       options: {
@@ -44,17 +44,31 @@ module.exports = function(grunt) {
         sub: true,
         undef: true,
         boss: true,
-        eqnull: true,
-        browser: true
+        eqnull: true
       },
-      globals: {
-        jQuery: true
-      }
+      globals: {}
     },
-    uglify: {}
+    uglify: {},
+      sass: {                              // Task
+      dist: {                            // Target
+        files: {                         // Dictionary of files
+          'main.css': 'main.scss'
+        }
+      },
+      dev: {                             // Another target
+        options: {                       // Target options
+          style: 'expanded'
+        },
+        files: {
+          'main.css': 'main.scss'
+        }
+      }
+    }
   });
 
+  grunt.loadNpmTasks('grunt-contrib-sass');
+
   // Default task.
-  grunt.registerTask('default', 'lint qunit concat min');
+  grunt.registerTask('default', 'lint test sass concat min');
 
 };

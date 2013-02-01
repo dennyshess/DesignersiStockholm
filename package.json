@@ -1,0 +1,20 @@
+{
+  "name": "DesignersiStockholm",
+  "version": "0.0.1",
+  "description": "~ DesignersiStockholm Website ~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennyshess/DesignersiStockholm.git"
+  },
+  "author": "Marco Barbosa",
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "gitHead": "8a61f8a4fb85e2897c2f1d7994990f1f6d1abf66",
+  "devDependencies": {
+    "grunt": "~0.3.17"
+  }
+}
