@@ -9,16 +9,6 @@
 */
 
 
-//
-// Important numbers
-//
-
-$line: 24;
-$column: 100% / 18;
-$font-size: 16;
-$em: $font-size * 1;
-
-
 /*
 *
 *  Margin, padding, and border resets
@@ -124,6 +114,30 @@ img {
     -ms-interpolation-mode: bicubic;
 }
 
+.logo-wrapper {
+    display: block;
+    margin: 0 auto 40px;
+    width: 50px;
+}
+
+.logo {
+    display: block;
+}
+
+.counter {
+    background: #000;
+    color: #fff;
+    display: block;
+    font-style: normal;
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    border-radius: 17px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
 
 /*
 *
@@ -138,49 +152,13 @@ body {
     line-height: #{$line / $em}em;
 }
 
-@mixin small {
-    /* 13px / 18px */
-    font-size: #{($font-size*0.8125) / $em}em;
-    line-height: ($line*0.75) / ($font-size*0.8125) * 1em;
-}
-@mixin normal {
-    /* 16px / 24px */
-    font-size: #{$font-size / $em}em;
-    line-height: #{$line / $em}em; /* 24 */
-}
-
 h3 {
     @include normal;
-}
-
-@mixin large {
-    /* 26 / 36px */
-    font-size: #{26 / $em}em;
-    line-height: ($line*1.5) / 26 * 1em;
 }
 
 h2, h1 {
     @include large;
 }
-
-@mixin huge {
-    /* 42px / 48px */
-    font-size: #{42 / $em}em;
-    line-height: ($line*2) / 42 * 1em;
-}
-
-@mixin massive {
-    /* 68px / 72px */
-    font-size: #{68 / $em}em;
-    line-height: ($line*3) / 68 * 1em;
-}
-
-@mixin gigantic {
-    /* 110px / 120px */
-    font-size: #{110 / $em}em;
-    line-height: ($line*5) / 110 * 1em;
-}
-
 
 /*
 *
@@ -191,8 +169,8 @@ h2, h1 {
 *
 */
 
-header, #twoway {
-    margin: 0 $column;
+header {
+    // margin: 0 $column;
 }
 
 h1, h2 {
@@ -213,13 +191,92 @@ h3 {
 */
 
 .wrapper {
-    padding: 0 #{($line/2)/$em}em;
+    // padding: 0 #{($line/2)/$em}em;
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
         -ms-box-sizing: border-box;
             box-sizing: border-box;
 }
 
+
+/*
+ * MAIN HEADER
+ */
+.main-header {
+    background: #c4413f;
+    color: #fff;
+    min-height: 320px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.datetime {
+    text-transform: uppercase;
+
+    > span {
+        display: block;
+        // font-size: ;
+
+    }
+}
+
+.toolbar {
+    display: block;
+    height: 160px;
+    width: 100%;
+
+    > a {
+        display: inline-block;
+        float: left;
+        height: 160px;
+        line-height: 160px;
+        width: 50%;
+    }
+}
+
+.signup {
+    background: $yellow url('../img/icon-signup.png') 50% 50% no-repeat;
+}
+
+.sponsor-logo {
+    background: #000;
+}
+
+
+.address {
+    margin: 80px auto 40px;
+}
+
+.url {
+    display: block;
+}
+
+
+/*
+ * SPEAKERS
+ */
+.speaker {
+    background: $gray;
+    color: #1f1e1b;
+    text-align: center;
+
+    img {
+        display: inline-block;
+        margin: 10px auto;
+    }
+}
+
+.speaker:nth-of-type(2n+1) {
+    background: #7d7b73;
+}
+
+.speaker:nth-of-type(3n+1){
+    background: #89877f;
+}
+
+.speaker-name {
+    margin: 0 auto 20px;
+}
 
 /*
 *

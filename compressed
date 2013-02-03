@@ -1,5 +1,5 @@
 /*
-Errno::ENOENT: No such file or directory - src/sass/style.scss
+Errno::ENOENT: No such file or directory - compressed
 
 Backtrace:
 /Library/Ruby/Gems/1.8/gems/sass-3.2.5/bin/../lib/sass/../sass/plugin/compiler.rb:339:in `read'
@@ -21,4 +21,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Errno::ENOENT: No such file or directory - src/sass/style.scss"; }
+  content: "Errno::ENOENT: No such file or directory - compressed"; }

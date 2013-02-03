@@ -22,9 +22,11 @@
     <body lang="en">
 
         <header class="main-header">
-            <i class="counter">II</i>
-            <img class="logo" alt="Designers i Stockholm" src="img/logos/DesignersiStockholm.png" />
-            <time datetime="">Monday, 23. March 2013 <span>7:00 - 9:00P.M</span></time>
+            <div class="logo-wrapper">
+                <i class="counter">II</i>
+                <img class="logo" alt="Designers i Stockholm" src="img/logos/DesignersiStockholm.png" />
+            </div>
+            <time class="datetime" datetime="">Monday, 28. February 2013 <span>7:00 - 9:00P.M</span></time>
             <div class="vcard">
                 <p class="address">
                     <span class="street-address">
@@ -33,24 +35,26 @@
                     <a class="url">www.fjordnet.com</a>
                 </p>
             </div>
-            <a class="register"></a>
-            <img class="sponsor-logo" alt="Fjord" src="img/logos/Fjord.png" />
+            <nav class="toolbar">
+                <a class="signup ir" href="#">Sign-up</a>
+                <a class="sponsor-logo" href="#"><img alt="Fjord" src="img/logos/Fjord.png" /></a>
+            </nav>
         </header>
 
         <section>
-            <figure>
+            <figure class="speaker">
                 <img src="img/speakers/Therese_Larsson.jpg" alt="Therese Larsson" />
                 <figcaption>
-                    <i class="job-title">Founder of Sillybeast</i>
-                    <h1>Therese Larsson</h1>
+                    <i class="speaker-title">Founder of Sillybeast</i>
+                    <h1 class="speaker-name">Therese Larsson</h1>
                     <p>Beautiful handcrafted illustrations. Therese will walk us through her process and work in a live show!</p>
                 </figcaption>
             </figure>
-            <figure>
+            <figure class="speaker">
                 <img src="img/speakers/Therese_Larsson.jpg" alt="Therese Larsson" />
                 <figcaption>
-                    <i class="job-title">Game Developer</i>
-                    <h1>Andreas Zecher</h1>
+                    <i class="speaker-title">Game Developer</i>
+                    <h1 class="speaker-name">Andreas Zecher</h1>
                     <p>Beautiful handcrafted illustrations. Therese will walk us through her process and work in a live show!</p>
                 </figcaption>
             </figure>

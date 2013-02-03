@@ -15,6 +15,8 @@
   "readmeFilename": "readme.md",
   "gitHead": "8a61f8a4fb85e2897c2f1d7994990f1f6d1abf66",
   "devDependencies": {
-    "grunt": "~0.3.17"
+    "grunt": "~0.3.17",
+    "grunt-contrib-htmlmin": "~0.1.0",
+    "grunt-contrib-sass": "~0.2.1"
   }
 }
