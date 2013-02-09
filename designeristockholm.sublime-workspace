@@ -1,0 +1,1150 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"proo",
+				"prototype"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"position",
+				"positionBlocks"
+			],
+			[
+				"col",
+				"columnsGrid"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"colum",
+				"columnWidth"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"backgru",
+				"background	background: color image repeat attachment position"
+			],
+			[
+				"header",
+				"headerHeight"
+			],
+			[
+				"jump",
+				"jumpToSlide"
+			],
+			[
+				"ms-trans",
+				"ms-transition"
+			],
+			[
+				"sw",
+				"swipeLength  (variable)"
+			],
+			[
+				"swip",
+				"swipeDirection"
+			],
+			[
+				"determine",
+				"determineSwipeDirection"
+			],
+			[
+				"calculate",
+				"caluculateAngle"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"list-style",
+				"list-style-type:   (property)"
+			],
+			[
+				"progre",
+				"progressBar"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"previous",
+				"previousSlide"
+			],
+			[
+				"web",
+				"webkit-keyframes"
+			],
+			[
+				"new",
+				"newSlideClass"
+			],
+			[
+				"target",
+				"targetSlide"
+			],
+			[
+				"Get",
+				"getElementById"
+			],
+			[
+				"slide",
+				"slideClasses"
+			],
+			[
+				"au",
+				"author	@author"
+			],
+			[
+				"strip",
+				"strip_tags"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dist/index.html",
+			"settings":
+			{
+				"buffer_size": 2545,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/layout.scss",
+			"settings":
+			{
+				"buffer_size": 7647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/global.scss",
+			"settings":
+			{
+				"buffer_size": 1764,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/variables.scss",
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/typography.scss",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"SI",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"addf ",
+				"Project: Add Folder"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"packg",
+				"Package Control: Disable Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"preferences",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"prefe",
+				"Preferences: User Global Settings"
+			],
+			[
+				"settings",
+				"Preferences: User File Settings"
+			]
+		],
+		"width": 550.0
+	},
+	"console":
+	{
+		"height": 460.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mbarbosa/Code/DesignersiStockholm/src/sass/mixins.scss",
+		"/Users/mbarbosa/Code/DesignersiStockholm/src/sass/main.scss",
+		"/Users/mbarbosa/Code/DesignersiStockholm/src/sass/typography.scss",
+		"/Users/mbarbosa/Code/DesignersiStockholm/src/sass/variables.scss",
+		"/Users/mbarbosa/Code/DesignersiStockholm/src/index.html",
+		"/Users/mbarbosa/Code/DesignersiStockholm/grunt.js",
+		"/Users/mbarbosa/Code/DesignersiStockholm/dist/css/style.css",
+		"/Users/mbarbosa/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mbarbosa/Code/DesignersiStockholm/index.html",
+		"/Users/mbarbosa/Code/DesignersiStockholm/package.json",
+		"/Users/mbarbosa/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/mbarbosa/Code/microsoft_dj_blake/README.md",
+		"/Users/mbarbosa/Code/microsoft_dj_blake/development/source/scripts/coffee/project/controllers/DebugController.coffee",
+		"/Users/mbarbosa/Code/sony_alva/site/source/static/css/styles.css",
+		"/Users/mbarbosa/Code/sony_alva/site/dev-resources/less/global.less",
+		"/Users/mbarbosa/Downloads/abstract.php",
+		"/Users/mbarbosa/Dropbox/Code/slides/index.html",
+		"/Users/mbarbosa/35.html",
+		"/Users/mbarbosa/Code/CoursIO-API/application/configs/routes.ini",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/scripts.js",
+		"/Users/mbarbosa/Code/Coursio-Mobile/README.md",
+		"/Users/mbarbosa/Code/CoursIO-API/public/README.md",
+		"/Users/mbarbosa/Code/CoursIO-API/public/README.txt",
+		"/Users/mbarbosa/Downloads/CodeKit.app/Contents/Resources/engines/compass/README.markdown",
+		"/Users/mbarbosa/Code/CoursIO-API/public/css/source/font-awesome.less",
+		"/Users/mbarbosa/Code/CoursIO-API/public/css/source/typography.less",
+		"/Users/mbarbosa/Code/CoursIO-API/public/css/source/variables.less",
+		"/Users/mbarbosa/Code/CoursIO-API/public/css/styles.less",
+		"/Users/mbarbosa/Code/CoursIO-API/public/css/source/global.less",
+		"/Users/mbarbosa/Code/CoursIO-API/application/configs/application.ini",
+		"/Users/mbarbosa/Code/CoursIO-API/application/layouts/scripts/mobile.phtml",
+		"/Users/mbarbosa/Code/CoursIO-API/application/modules/mobile/views/scripts/course/index.phtml",
+		"/Users/mbarbosa/Code/CoursIO-API/application/modules/mobile/views/scripts/index/index.phtml",
+		"/Users/mbarbosa/Code/CoursIO-API/application/modules/mobile/views/scripts/course/head-chapter.phtml",
+		"/Users/mbarbosa/Code/CoursIO-API/public/css/source/gui.less",
+		"/Users/mbarbosa/Code/Font-Awesome/docs/index.html",
+		"/Users/mbarbosa/Code/CoursIO-API/public/index.php",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/app/coursio.columnsgrid.js",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/app/coursio.imagepreloader.js",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/app/coursio.utils.js",
+		"/Users/mbarbosa/Code/CoursIO-API/application/modules/mobile/views/scripts/course/chapter.phtml",
+		"/Users/mbarbosa/Code/CoursIO-API/public/css/source/mixins.less",
+		"/Users/mbarbosa/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/app/GridList.js",
+		"/Users/mbarbosa/Code/CoursIO-API/application/Bootstrap.php",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/libs/jquery1.7.2.min",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/libs/zepto.min.js",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/masonry.min.js",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/jquery/jquery.masonry.min.js",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/app/courses-list.js",
+		"/Users/mbarbosa/Code/CoursIO-API/public/js/courses-list.js",
+		"/Users/mbarbosa/Code/CoursIO-API/public/css/styles.css",
+		"/Users/mbarbosa/Code/CoursIO-API/public/css/source/layout.less",
+		"/Users/mbarbosa/Code/CoursIO-API/public/.htaccess",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/gui.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/styles.css",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/styles.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/grid.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/global.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/typograpy.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/pages/courses.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/variables.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/normalise.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/courses.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/sprites.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/media.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/variables.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/responsive-1200px-min.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/responsive-768px-979px.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/responsive-767px-max.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/js/GGS.js",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/responsive.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/layouts.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/utilities.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/grid.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/responsive.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/responsive-utilities.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/responsive-utilities.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/type.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/scaffolding.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/reset.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/mixins.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/thumbnails.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/responsive-1200px-min.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/pagination.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/responsive-767px-max.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/sprites.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/progress-bars.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/vendor/responsive-768px-979px.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/layout.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/constants.less",
+		"/Users/mbarbosa/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/navbar.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/navs.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/layouts.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/mixins.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/scaffolding.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/thumbnails.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/utilities.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/wells.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/type.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/button-groups.less",
+		"/Users/mbarbosa/Code/Coursio-Mobile/css/source/bootstrap.less",
+		"/Users/mbarbosa/Dropbox/Code/Coursio-Mobile/index.html",
+		"/Users/mbarbosa/Dropbox/Code/Coursio-Mobile/js/scripts.js",
+		"/Users/mbarbosa/Dropbox/Code/Coursio-Mobile/css/styles.less",
+		"/Users/mbarbosa/Code/bootstrap/package.json",
+		"/Users/mbarbosa/Dropbox/Code/Coursio-Mobile/foundation-download-2.2.1/stylesheets/foundation.css",
+		"/Users/mbarbosa/Code/DesignersiStockholm/css/source/base.less",
+		"/Users/mbarbosa/Code/DesignersiStockholm/js/app.js",
+		"/Users/mbarbosa/Dropbox/Code/slides/css/style.less",
+		"/Users/mbarbosa/Code/DesignersiStockholm/css/source/grid.less",
+		"/Users/mbarbosa/Dropbox/Code/slides/css/style.css",
+		"/Users/mbarbosa/Code/joomla-synch/configuration.srv.php",
+		"/Users/mbarbosa/Code/DesignersiStockholm/js/touchEvents.js",
+		"/Users/mbarbosa/Dropbox/Code/slides/js/slides.js",
+		"/Users/mbarbosa/Code/DesignersiStockholm/css/bootstrap.less",
+		"/Users/mbarbosa/Code/DesignersiStockholm/css/base.less",
+		"/Users/mbarbosa/Code/DesignersiStockholm/css/grid.less",
+		"/Users/mbarbosa/Code/DesignersiStockholm/css/reset.less",
+		"/Users/mbarbosa/Code/DesignersiStockholm/css/GGS.less",
+		"/Users/mbarbosa/Code/DesignersiStockholm/css/variables.less",
+		"/Users/mbarbosa/Code/DesignersiStockholm/css/typography.less",
+		"/Users/mbarbosa/Code/think_insights/trunk/source/settings.py",
+		"/Users/mbarbosa/Code/think_insights/trunk/source/thinkinsights/views.py",
+		"/Users/mbarbosa/Code/think_insights/trunk/build/build.xml",
+		"/Users/mbarbosa/Code/think_insights/trunk/source/thinkinsights/urls.py",
+		"/Users/mbarbosa/Code/DesignersiStockholm/GGS.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"job-title",
+			"child",
+			"fcd35a",
+			"73716b",
+			"mixins",
+			"register",
+			"div",
+			"absolute",
+			"figure",
+			"March",
+			"figure",
+			"figcaption",
+			"span",
+			"i",
+			"figure",
+			"figcaption",
+			"div",
+			"main",
+			"span",
+			"timestamp",
+			"Golden",
+			"uglify",
+			"livtinja",
+			"hotspot",
+			"chapters-list",
+			"icon-large",
+			".content",
+			"content",
+			"localhost",
+			"*",
+			"deprecated",
+			"separate",
+			"tutorial",
+			"left",
+			"right",
+			"icon-ok",
+			"div",
+			"<li>",
+			"div",
+			"maargin",
+			"re",
+			"pink",
+			"float",
+			"container",
+			"items",
+			"right",
+			"block",
+			"40",
+			"30",
+			"35",
+			"40",
+			"auto",
+			"left",
+			"button",
+			"50",
+			"auto",
+			"em",
+			"<span>",
+			"Next",
+			"Previous",
+			"</i>",
+			"Bookmark",
+			"Complete",
+			".ir",
+			"center",
+			"Footer",
+			"options",
+			"nav",
+			"options",
+			"important",
+			"center",
+			"important",
+			"variables",
+			"class",
+			"Next",
+			"Previous",
+			"List",
+			"Bookmark",
+			"Complete",
+			"333",
+			"icon-user",
+			"typography",
+			".content",
+			"div",
+			"aaa",
+			"Georgia",
+			"ccc",
+			"666",
+			"mobile",
+			"localhost",
+			"selection",
+			"grid",
+			"ColumnsGrid",
+			"list",
+			"image",
+			"registerImage",
+			"src",
+			"functijon",
+			"purple",
+			".block {",
+			".block",
+			"Don't grid the chapters-list blocks",
+			"article",
+			"auto",
+			"$course",
+			"?>",
+			"<?php",
+			"course",
+			"courses",
+			"courses-list",
+			"null",
+			"load",
+			"our",
+			"setupColumns",
+			"isGridFriendly",
+			"DOMContentLoaded",
+			"MyElement",
+			"body",
+			"className",
+			"input",
+			"max-height",
+			"runSetup",
+			"setupCheck",
+			"addEventListeners",
+			"columnable",
+			"Coursio.",
+			"ColumnsGrid",
+			"Sorry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dist/index.html",
+					"settings":
+					{
+						"buffer_size": 2545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2301,
+								2301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 47.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/sass/layout.scss",
+					"settings":
+					{
+						"buffer_size": 7647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4155,
+								4155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3136.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/sass/global.scss",
+					"settings":
+					{
+						"buffer_size": 1764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/sass/variables.scss",
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/sass/typography.scss",
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"typ",
+				"src/sass/typography.scss"
+			],
+			[
+				"t",
+				"src/sass/typography.scss"
+			],
+			[
+				"side",
+				"scripts/coffee/project/controllers/DebugController.coffee"
+			],
+			[
+				"read",
+				"CodeKit.app/Contents/Resources/engines/compass/README.markdown"
+			],
+			[
+				"font",
+				"css/source/font-awesome.less"
+			],
+			[
+				"glo",
+				"css/source/global.less"
+			],
+			[
+				"varia",
+				"css/source/variables.less"
+			],
+			[
+				"typo",
+				"css/source/typography.less"
+			],
+			[
+				"var",
+				"css/source/variables.less"
+			],
+			[
+				"st",
+				"css/styles.less"
+			],
+			[
+				"gui",
+				"css/source/gui.less"
+			],
+			[
+				"font-a",
+				"css/source/font-awesome.less"
+			],
+			[
+				"sty",
+				"css/styles.less"
+			],
+			[
+				"less",
+				"css/styles.less"
+			],
+			[
+				"uti",
+				"app/coursio.utils.js"
+			],
+			[
+				"utils",
+				"app/coursio.utils.js"
+			],
+			[
+				"colu",
+				"app/coursio.columnsgrid.js"
+			],
+			[
+				"mixi",
+				"source/mixins.less"
+			],
+			[
+				"grid",
+				"public/js/app/GridList.js"
+			],
+			[
+				"course",
+				"public/js/app/courses-list.js"
+			],
+			[
+				"gu",
+				"public/css/source/gui.less"
+			],
+			[
+				"layou",
+				"public/css/source/layout.less"
+			],
+			[
+				".ht",
+				"public/.htaccess"
+			],
+			[
+				"layout",
+				"public/css/source/layout.less"
+			],
+			[
+				"mobil",
+				"application/layouts/scripts/mobile.phtml"
+			],
+			[
+				"style",
+				"css/styles.less"
+			],
+			[
+				"typog",
+				"css/source/typography.less"
+			],
+			[
+				"ty",
+				"css/source/typograpy.less"
+			],
+			[
+				"norma",
+				"css/source/normalise.less"
+			],
+			[
+				"spr",
+				"css/source/sprites.less"
+			],
+			[
+				"me",
+				"css/source/media.less"
+			],
+			[
+				"styles.les",
+				"css/styles.less"
+			],
+			[
+				"lay",
+				"css/vendor/layouts.less"
+			],
+			[
+				"gri",
+				"css/vendor/grid.less"
+			],
+			[
+				"respons",
+				"css/source/responsive-1200px-min.less"
+			],
+			[
+				"respon",
+				"css/vendor/responsive-utilities.less"
+			],
+			[
+				"re",
+				"css/source/responsive-utilities.less"
+			],
+			[
+				"type",
+				"css/vendor/type.less"
+			],
+			[
+				"res",
+				"css/vendor/reset.less"
+			],
+			[
+				"mix",
+				"css/vendor/mixins.less"
+			],
+			[
+				"vari",
+				"css/source/variables.less"
+			],
+			[
+				"thum",
+				"css/vendor/thumbnails.less"
+			],
+			[
+				"g",
+				"css/vendor/grid.less"
+			],
+			[
+				"sca",
+				"css/vendor/scaffolding.less"
+			],
+			[
+				"sourceresponsive",
+				"css/source/responsive-768px-979px.less"
+			],
+			[
+				"source767",
+				"css/source/responsive-767px-max.less"
+			],
+			[
+				"sourceresponsive-",
+				"css/source/responsive-767px-max.less"
+			],
+			[
+				"source/rep",
+				"css/source/responsive-1200px-min.less"
+			],
+			[
+				"respons.less",
+				"css/source/responsive.less"
+			],
+			[
+				"pagina",
+				"css/vendor/pagination.less"
+			],
+			[
+				"responsive-12",
+				"css/vendor/responsive-1200px-min.less"
+			],
+			[
+				"responsive",
+				"css/vendor/responsive-767px-max.less"
+			],
+			[
+				"resp",
+				"css/vendor/responsive-utilities.less"
+			],
+			[
+				"sp",
+				"css/vendor/sprites.less"
+			],
+			[
+				"mi",
+				"css/vendor/mixins.less"
+			],
+			[
+				"respo",
+				"css/vendor/responsive.less"
+			],
+			[
+				"pro",
+				"css/vendor/progress-bars.less"
+			],
+			[
+				"sprite",
+				"css/vendor/sprites.less"
+			],
+			[
+				"styl",
+				"css/styles.css"
+			],
+			[
+				"navbar",
+				"css/source/navbar.less"
+			],
+			[
+				"navs",
+				"css/source/navs.less"
+			],
+			[
+				"wel",
+				"css/source/wells.less"
+			],
+			[
+				"boot",
+				"css/source/bootstrap.less"
+			],
+			[
+				"",
+				"css/GGS.less"
+			],
+			[
+				"rese",
+				"css/reset.less"
+			],
+			[
+				"mypanel",
+				"minima/css/libs/module.mypanel.css"
+			],
+			[
+				"mod_mypanel",
+				"mod_mypanel/mod_mypanel.xml"
+			],
+			[
+				"cpan",
+				"minima/cpanel.php"
+			],
+			[
+				"cpanel",
+				"minima/css/libs/template.cpanel.css"
+			],
+			[
+				"icons.cs",
+				"minima/css/libs/template.icons.css"
+			],
+			[
+				"buttons.css",
+				"minima/css/libs/template.buttons.css"
+			],
+			[
+				"panel",
+				"minima/js/libs/minima.panel.js"
+			],
+			[
+				"minima.",
+				"minima/js/minima.js"
+			],
+			[
+				"cpanel.cs",
+				"minima/css/libs/template.cpanel.css"
+			],
+			[
+				"widge",
+				"minima/js/libs/minima.widgets.js"
+			],
+			[
+				"cpa",
+				"minima/cpanel.php"
+			],
+			[
+				"forms",
+				"minima/css/libs/template.forms.css"
+			],
+			[
+				"reset",
+				"minima/css/libs/template.reset.css"
+			],
+			[
+				"mod_myshortcuts/",
+				"mod_myshortcuts/tmpl/default.php"
+			],
+			[
+				"shortcuts",
+				"minima/css/libs/template.shortcuts.css"
+			],
+			[
+				"index.p",
+				"minima/index.php"
+			],
+			[
+				"mypanel.cs",
+				"minima/css/libs/module.mypanel.css"
+			],
+			[
+				"template.",
+				"minima/css/template.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": false
+}
