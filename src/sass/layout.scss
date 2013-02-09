@@ -11,93 +11,6 @@
 
 /*
 *
-*  Margin, padding, and border resets
-*  except for form elements
-*
-*/
-
-html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, a, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, hgroup, nav, section, menu, time, mark, audio, video, canvas {
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
-
-
-/*
-*
-*  Consistency fixes
-*  adopted from http://necolas.github.com/normalize.css/
-*
-*/
-
-html {
-    height: 100%;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-}
-body {
-    min-height: 100%;
-    font-size: 100%;
-}
-article, aside, details, figcaption, figure,
-footer, header, hgroup, nav, section, audio, canvas, video {
-    display: block;
-}
-sub, sup {
-    font-size: 75%;
-    line-height: 0;
-    position: relative;
-    vertical-align: baseline;
-}
-sup {
-    top: -0.5em;
-}
-sub {
-    bottom: -0.25em;
-}
-pre {
-    white-space: pre;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-}
-b, strong {
-    font-weight: bold;
-}
-abbr[title] {
-    border-bottom: 1px dotted;
-}
-input, textarea, button, select {
-    margin: 0;
-    font-size: 100%;
-    line-height: normal;
-    vertical-align: baseline;
-}
-button,
-html input[type="button"],
-input[type="reset"],
-input[type="submit"] {
-    cursor: pointer;
-    -webkit-appearance: button;
-}
-input[type="checkbox"],
-input[type="radio"] {
-    -webkit-box-sizing: border-box;
-       -moz-box-sizing: border-box;
-        -ms-box-sizing: border-box;
-         -o-box-sizing: border-box;
-            box-sizing: border-box;
-}
-textarea {
-    overflow: auto;
-}
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-
-
-/*
-*
 *  Simple fluid media
 *
 */
@@ -105,19 +18,78 @@ table {
 figure {
     position: relative;
 }
-figure img, figure object, figure embed, figure video {
+
+figure img,
+figure object,
+figure embed,
+figure video {
     max-width: 100%;
     display: block;
 }
+
 img {
     border: 0;
     -ms-interpolation-mode: bicubic;
 }
 
+/*
+*
+*   Zoomable baseline grid
+*   type size presets
+*
+*/
+
+body {
+    /* 16px / 24px */
+    font-size: $font-size / 16 * 1em;
+    line-height: #{$line / $em}em;
+    font: Times, TimesNewRoman, "Times New Roman", Baskerville, Georgia, serif;
+}
+
+figcaption {
+  color: #fff;
+
+  > p {
+    color: #1f1e1b;
+  }
+}
+
+h3 {
+    @include normal;
+}
+
+h2, h1 {
+    @include large;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+/*
+*
+*  Four-column grid active
+*  ----------------------------------------
+*  Margin   | #  1   2   3   4   |   Margin
+*  5.55555% | %  25  50  75  100 | 5.55555%
+*
+*/
+
+/*
+*
+*  Main header
+*
+*/
+
 .logo-wrapper {
     display: block;
-    margin: 0 auto 40px;
-    width: 50px;
+    margin: 0 auto #{32/$em}em;
+    width: #{50/$em}em;
 }
 
 .logo {
@@ -139,38 +111,11 @@ img {
     left: 30px;
 }
 
-/*
-*
-*   Zoomable baseline grid
-*   type size presets
-*
-*/
-
-body {
-    /* 16px / 24px */
-    font-size: $font-size / 16 * 1em;
-    line-height: #{$line / $em}em;
-}
-
-h3 {
-    @include normal;
-}
-
-h2, h1 {
-    @include large;
-}
-
-/*
-*
-*  Four-column grid active
-*  ----------------------------------------
-*  Margin   | #  1   2   3   4   |   Margin
-*  5.55555% | %  25  50  75  100 | 5.55555%
-*
-*/
-
-header {
-    // margin: 0 $column;
+.street-address,
+.url {
+    text-transform: uppercase;
+    font-size: #{12/$em}em;
+    line-height: 1.3;
 }
 
 h1, h2 {
@@ -212,12 +157,14 @@ h3 {
 
 .datetime {
     text-transform: uppercase;
+    line-height: 0.9;
 
-    > span {
-        display: block;
-        // font-size: ;
+}
 
-    }
+.time {
+    display: block;
+    font-size: #{12/$em}em;
+    line-height: 1.6;
 }
 
 .toolbar {
@@ -259,24 +206,44 @@ h3 {
     background: $gray;
     color: #1f1e1b;
     text-align: center;
+    float: left;
+    width: 50%;
+    padding: 1em;
 
     img {
         display: inline-block;
-        margin: 10px auto;
+        margin: 0.625em auto;
+    }
+
+    &:nth-of-type(2n+1) {
+        background: #7d7b73;
+    }
+
+    &:nth-of-type(3n+1){
+        background: #89877f;
+    }
+
+    p {
+        font-size: #{13/$em}em;
+        line-height: 1.3;
+        color: #1f1e1b;
     }
 }
 
-.speaker:nth-of-type(2n+1) {
-    background: #7d7b73;
-}
-
-.speaker:nth-of-type(3n+1){
-    background: #89877f;
+.speaker-title {
+  color: #b9b8b5;
+  font-size: #{12/$em}em;
+  line-height: 1.5;
 }
 
 .speaker-name {
-    margin: 0 auto 20px;
+  font-size: #{14/$em}em;
+  font-weight: normal;
+  line-height: 1.3;
+  margin: 0 auto 20px;
+  text-transform: uppercase;
 }
+
 
 /*
 *
